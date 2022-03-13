@@ -26,4 +26,4 @@ npm run start
 ## Screenshot
 
 ##### Page 1
-![Page](./screenshots/register.png "Page")
+<img src="./screenshots/Screenshot-1.png" width="300" height="600">
